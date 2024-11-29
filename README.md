@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashank0409&label=Profile%20views&color=0e75b6&style=flat" alt="shashank0409" /> </p>
 
-- 🌱 I’m currently learning **DevOps and CyberSecurity Solutions**
+- 🌱 I’m currently learning **CyberSecurity Solutions**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shashank0409](https://github.com/Shashank0409)
 
