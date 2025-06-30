@@ -18,6 +18,10 @@
 <a href="https://www.leetcode.com/shashank209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
 </p>
 
+<a href="https://tryhackme.com/p/Shashank0409" target="_blank">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Shashank0409.png?v=2" alt="TryHackMe Badge">
+</a>
+
 ---
 
 ### 🛠️ Featured Projects
