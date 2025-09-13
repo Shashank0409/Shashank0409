@@ -13,14 +13,12 @@
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/pasham-shashank-reddy-03a178268/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shashank0409" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shashank209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pasham-shashank-reddy-03a178268/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/shashank0409" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/shashank209" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+<a href="https://codolio.com/profile/Shashank0409" target="_blank"><img align="center" src="logos/codolio_logo.svg" alt="LeetCode" height="30" width="40" /></a>
+<a href="https://tryhackme.com/p/Shashank0409" target="_blank"><img align="center" src="logos/tryhackme_logo.svg" alt="TryHackMe Badge" height="90" width="100" /></a>
 </p>
-
-<a href="https://tryhackme.com/p/Shashank0409" target="_blank">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Shashank0409.png?v=4" alt="TryHackMe Badge">
-</a>
 
 ---
 
