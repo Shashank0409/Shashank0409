@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pasham Shashank Reddy</h1>
-<h3 align="center">Cybersecurity Enthusiast | SOC & Blue Team | B.Tech CSE Graduate</h3>
+<h3 align="center">Cybersecurity Enthusiast | SOC & Blue Team</h3>
 
-🔐 I'm a recent Computer Science & Engineering graduate from Anurag University, passionate about offensive and defensive cybersecurity.
+🔐 I'm a Computer Science & Engineering graduate from Anurag University, passionate about offensive and defensive cybersecurity.
 
 🚀 I’ve built real-world projects that simulate threat detection, endpoint monitoring, and secure communication using tools like **Splunk, Sysmon, Atomic Red Team, Burp Suite, and Python**.
 
